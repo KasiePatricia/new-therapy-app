@@ -114,7 +114,7 @@ If you have any questions or need help getting started, please don't hesitate to
 
 ## Hosted Link:
 
-[**Therapyly**](https://therapy-app.vercel.app)
+[**Therapyly**](https://new-therapy-app.vercel.app/)
 
 ## The Therapyly App API Endpoints and backend
 
