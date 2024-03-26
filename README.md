@@ -81,13 +81,13 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://github.com/Visionvoice2023/therapy-app.git
+  git clone https://github.com/KasiePatricia/new-therapy-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd therapy-app
+  cd new-therapy-app
 ```
 
 Install dependencies
@@ -110,11 +110,7 @@ If you have any questions or need help getting started, please don't hesitate to
 ## Authors
 
 - [Chile Omereji](https://github.com/chile4coding)
-- [Obieze Ezeugo Felistus](https://github.com/Felistus)
-- [Ejibode Ibraheem](https://github.com/Linsmed)
 - [Kasie Ugwu](https://github.com/KasiePatricia)
-- [Adetaj](https://github.com/adetaj)
-- [Chidalu](https://github.com/daluclemas)
 
 ## Hosted Link:
 
